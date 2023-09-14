@@ -81,45 +81,55 @@ Placement Data:
 ![image](https://github.com/Kishore2o/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679883/fe519b85-936b-4cc8-92d1-eb9615b59c4d)
 
 Salary Data: 
+
 ![image](https://github.com/Kishore2o/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679883/222cd724-e4c9-4af7-adfb-992cbcc9d735)
 
 
 Checking the null() function:
+
 ![image](https://github.com/Kishore2o/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679883/9f59838e-ed4c-49c3-8204-bf2ea11b7a83)
 
 
 Data Duplicate:
+
 ![image](https://github.com/Kishore2o/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679883/07abe305-8e03-4c3d-ad4f-7d9804c47a27)
 
 
 
 Print Data: 
+
 ![image](https://github.com/Kishore2o/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679883/a4b8ca14-1ca7-4767-9a22-39981099f5cd)
 
 Data-status:
+
 ![image](https://github.com/Kishore2o/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679883/32233e9f-3c9e-456d-9260-a91b18a77a34)
 
 
 
 y_prediction array:
+
 ![image](https://github.com/Kishore2o/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679883/a66e4595-af8d-45cd-b0a1-1e27d8c6a4e2)
 
 
 
 Accuracy value:
+
 ![image](https://github.com/Kishore2o/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679883/aa4bbd52-7cab-4fc1-9050-b02eb9bd3434)
 
 
 
 Confusion array:
+
 ![image](https://github.com/Kishore2o/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679883/47b6d69b-8c17-4994-b806-e02bbcfea572)
 
 
 Classification report:
+
 ![image](https://github.com/Kishore2o/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679883/c601ec40-ac22-4769-a425-48ef3b3f4fa5)
 
 
 Prediction of LR:
+
 ![image](https://github.com/Kishore2o/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118679883/d70a332d-7b75-4e3d-9ea0-aeb8c7a05d62)
 
 
